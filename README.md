@@ -1,4 +1,4 @@
-# Lambda-Hello
+# 0043_lsw1d_lambda_hello
 Introductions to the Lambda Community
 
 ### Pull Request Challenge
